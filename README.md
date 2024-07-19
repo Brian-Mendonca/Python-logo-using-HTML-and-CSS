@@ -1,10 +1,10 @@
-# Python logo using simple HTML and CSS
+## Python logo using simple HTML and CSS
 
 I have created a simple python logo just using HTML and CSS. 
 
 ## Table of Contents
 
-- [Project Title](#project-title)
+- [Project Title](#Python-logo-using-simple-HTML-and-CSS)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Installation](#installation)
