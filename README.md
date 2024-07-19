@@ -36,4 +36,4 @@ I have created a simple python logo just using HTML and CSS.
 
 Brian Mendonca - [brianmendonca12@gmail.com](mailto:brianmendonca12@gmail.com)
 
-Project Link: [Python-logo-using-HTML-and-CSS]([https://github.com/yourusername/your-repo-name](https://github.com/Brian-Mendonca/Python-logo-using-HTML-and-CSS))
+Project Link: [Python-logo-using-HTML-and-CSS](https://github.com/Brian-Mendonca/Python-logo-using-HTML-and-CSS)
